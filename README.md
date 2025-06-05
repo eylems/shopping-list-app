@@ -31,7 +31,7 @@ Vite + React + TypeScript kullanılarak geliştirilmiş basit bir alışveriş l
 ├── public/
 ├── package.json
 └── vite.config.ts
-
+```
 💡 Geliştirme Önerileri
 ✅ LocalStorage entegrasyonu (verilerin kalıcı olması için)
 
