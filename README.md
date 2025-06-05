@@ -20,9 +20,8 @@ Vite + React + TypeScript kullanılarak geliştirilmiş basit bir alışveriş l
 - [NanoID](https://github.com/ai/nanoid)
 
 📁 Proje Yapısı
-bash
-Kopyala
-Düzenle
+
+```txt
 ├── src
 │   ├── assets/components/   # TableComponent
 │   ├── data/                # Kategori ve market verileri
